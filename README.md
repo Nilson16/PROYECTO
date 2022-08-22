@@ -1,7 +1,15 @@
-# PROYECTO Default Credit Card Clients Dataset
 
-# Miembros del equipo
-Nilson Suarez Hernandez, CC: 1038124979, Ingeniería Industrial
+# Proyecto_AI
+# Proyecto inteligencia artificial UdeA
 
-# Datos
-Los datos del proyecto vienen de https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?select=UCI_Credit_Card.csv
+## Miembros del grupo 
+- Daniel Esteban Maya Portillo, CC 1004540273, Bioingeniería
+- Manuela Gutiérrez Cano, CC 1037657256, Ingeniería de Sistemas
+- Nilson Suarez Hernandez, CC 1068124979, Ingeniería Industrial
+
+## Datos 
+
+Los datos del proyecto vienen del dataset [SpamBase](https://www.kaggle.com/datasets/colormap/spambase)
+
+## Videos
+- [Video primera entrega](https://youtu.be/31TvAP8LNGo)
